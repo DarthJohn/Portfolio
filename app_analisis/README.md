@@ -24,7 +24,8 @@
 
 ## Используемые библиотеки
 - pandas
-- seaborn
+- scipy
+- math
 - numpy
 - matplotlib
-- datetime
+- plotly
