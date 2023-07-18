@@ -1,5 +1,6 @@
 # «Анализ поведения пользователей мобильного приложения» – учебный проект (Яндекс Практикум)
-[ipynb](https://github.com/DarthJohn/Portfolio/blob/main/app_analisis/mobile_app_ueser_analisis.ipynb)
+[**ipynb**](https://github.com/DarthJohn/Portfolio/blob/main/app_analisis/mobile_app_ueser_analisis.ipynb)
+
 Для стартапа, который продаёт продукты питания, необходимо провести анализ поведения пользователей мобильного приложения, а также исследовать результаты A/A/B-теста.
 
 ## Данные 
